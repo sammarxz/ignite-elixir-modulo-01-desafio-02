@@ -12,3 +12,8 @@ Diferente do desafio 01, a sua solução para esse desafio não precisa ser recu
 O nome do projeto pode ser um de sua escolha  💜
 
 Podemos acompanhar o resultado esperado observando o seguinte exemplo de execução da função:
+
+```bash
+iex> ListFilter.call(["1", "3", "6", "43", "banana", "6", "abc"])
+...> 3
+```
